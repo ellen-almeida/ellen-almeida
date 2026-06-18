@@ -11,4 +11,4 @@ Atuo como estagiária na área de Inteligência Artificial, contribuindo com o d
 E-mail: ellen.almeida@facilinformatica.com.br  
 Rocket.Chat: @ellen.almeida
 
-
+![grupo-facil-logo](grupo-facil-logo.png)

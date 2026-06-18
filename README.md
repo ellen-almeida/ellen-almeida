@@ -1,4 +1,4 @@
-# Ellen Almeida
+# Ellen Souza de Almeida
 
 Estagiária de Inteligência Artificial no Grupo Fácil
 
